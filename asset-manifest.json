@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ksarkate943-ship-it.github.io/react/static/css/main.3b71cc2a.css",
+    "main.js": "/ksarkate943-ship-it.github.io/react/static/js/main.24461b01.js",
+    "static/js/453.daf713ce.chunk.js": "/ksarkate943-ship-it.github.io/react/static/js/453.daf713ce.chunk.js",
+    "index.html": "/ksarkate943-ship-it.github.io/react/index.html",
+    "main.3b71cc2a.css.map": "/ksarkate943-ship-it.github.io/react/static/css/main.3b71cc2a.css.map",
+    "main.24461b01.js.map": "/ksarkate943-ship-it.github.io/react/static/js/main.24461b01.js.map",
+    "453.daf713ce.chunk.js.map": "/ksarkate943-ship-it.github.io/react/static/js/453.daf713ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b71cc2a.css",
+    "static/js/main.24461b01.js"
+  ]
+}
